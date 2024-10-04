@@ -1,3 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1728073712
+::res://::1728073868
+export_presets.cfg::TextFile::-1::1728073828::0::1::::<><>::
 icon.svg::CompressedTexture2D::5823158280342182410::1728073708::1728073712::1::::<><>::
+README.md::TextFile::-1::1728073736::0::1::::<><>::
+Main.tscn::PackedScene::5626741309652698573::1728073757::0::1::::<><>::
+::res://dist/::1728073821
+::res://dist/linux/::1728073831
+::res://dist/web/::1728073830
+index.apple-touch-icon.png::CompressedTexture2D::5208658006820475539::1728073830::1728073878::1::::<><>::
+index.icon.png::CompressedTexture2D::3282777708764775704::1728073830::1728073878::1::::<><>::
+index.png::CompressedTexture2D::1506612146271220840::1728073830::1728073878::1::::<><>::
